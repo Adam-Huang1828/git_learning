@@ -1,0 +1,4 @@
+apple
+banana
+西瓜
+芒果
